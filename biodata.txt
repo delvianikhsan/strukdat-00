@@ -1,0 +1,8 @@
+nama 	   : delvian ikhsan maulana
+ttl  	   : pekanbaru, 12 oktober 1999
+umur 	   : 19
+hobi 	   : softball , otomotive , motor
+pendidikan : s1 teknik informatika unpad
+tinggi 	   : 180 cm
+berat 	   : 75
+npm	   : 140810180065
